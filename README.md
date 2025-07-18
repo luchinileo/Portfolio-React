@@ -31,7 +31,7 @@ El objetivo es ofrecer una navegación clara, sencilla y profesional para facili
 
 - [Ver Portfolio Online en Netlify](https://app.netlify.com/teams/luchinileo/projects)
 - [GitHub - luchinileo](https://github.com/luchinileo)
-- [LinkedIn - Leonardo Luchini](https://www.linkedin.com/in/tu-linkedin-aqui)
+- [LinkedIn - Leonardo Luchini](https://www.linkedin.com/in/leonardo-luchini-13b127262/)
 
 ## Contacto
 
