@@ -1,6 +1,6 @@
 function Education() {
   return (
-    <main className="education">
+    <main className="educacion-container ">
       <h2>Educación</h2>
       <h3>Diplomatura en Desarrollo Web Full Stack</h3>
       <p>Cámara de Empresas del Polo Informático de Tandil (CEPIT)</p>
