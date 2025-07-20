@@ -17,6 +17,12 @@ function Projects() {
           github="https://github.com/luchinileo/guitarra-2025-js"
           demo="https://venta-guitarra-react.netlify.app"
         />
+        <ProjectCard
+          title="Calculadora de Propinas"
+          description="Calculadora hecha con React y desplegada en Netlify."
+          github="https://github.com/luchinileo/Calculadora-Propinas.git"
+          demo="https://react-propinas.netlify.app"
+/>
       </div>
     </main>
   )
