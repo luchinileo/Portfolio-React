@@ -9,7 +9,8 @@ function Contact() {
 
       <p>LinkedIn: <a href="https://www.linkedin.com/in/leonardo-luchini-13b127262/" target="_blank" rel="noopener noreferrer">linkedin.com/in/tu-linkedin-aqui</a></p>
 
-      <p>Portfolio: <a href="https://app.netlify.com/teams/luchinileo/projects" target="_blank" rel="noopener noreferrer">Ver mi Portfolio Online</a></p>
+      <p>Portfolio: <a href="https://portfolio-react-leo.netlify.app"target="_blank" rel="noopener noreferrer"
+        >Ver mi Portfolio Online</a></p>
 
 
       <p>Teléfono: 2901 649478</p>
