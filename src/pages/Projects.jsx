@@ -9,13 +9,13 @@ function Projects() {
           title="Tienda de Ropa"
           description="Proyecto e-commerce en React con carrito funcional y deploy en Netlify."
           github="https://github.com/luchinileo/-Tienda-de-Ropa-React"
-          demo="https://tiramisú-monumental-62a97d.netlify.app"
+          demo="https://tienda-ropa-react.netlify.app"
         />
         <ProjectCard
           title="Guitarla"
           description="Sitio de guitarras hecho en React con TypeScript y deploy profesional."
-          github="(link a tu GitHub)"
-          demo="(link a tu Netlify)"
+          github="https://github.com/luchinileo/guitarla-ts"
+          demo="https://guitarla-ts-leo.netlify.app"
         />
       </div>
     </main>

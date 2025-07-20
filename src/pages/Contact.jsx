@@ -7,11 +7,9 @@ function Contact() {
 
       <p>GitHub: <a href="https://github.com/luchinileo" target="_blank" rel="noopener noreferrer">github.com/luchinileo</a></p>
 
-      <p>LinkedIn: <a href="https://www.linkedin.com/in/leonardo-luchini-13b127262/" target="_blank" rel="noopener noreferrer">linkedin.com/in/tu-linkedin-aqui</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/leonardo-luchini-13b127262/" target="_blank" rel="noopener noreferrer">linkedin.com/in/leonardo-luchini-13b127262</a></p>
 
-      <p>Portfolio: <a href="https://portfolio-react-leo.netlify.app"target="_blank" rel="noopener noreferrer"
-        >Ver mi Portfolio Online</a></p>
-
+      <p>Portfolio: <a href="https://portfolio-react-leo.netlify.app" target="_blank" rel="noopener noreferrer">Ver mi Portfolio Online</a></p>
 
       <p>Teléfono: 2901 649478</p>
 
