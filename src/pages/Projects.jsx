@@ -14,8 +14,8 @@ function Projects() {
         <ProjectCard
           title="Guitarla"
           description="Sitio de guitarras hecho en React con TypeScript y deploy profesional."
-          github="https://github.com/luchinileo/guitarla-ts"
-          demo="https://guitarla-ts-leo.netlify.app"
+          github="https://github.com/luchinileo/guitarra-2025-js"
+          demo="https://venta-guitarra-react.netlify.app"
         />
       </div>
     </main>
